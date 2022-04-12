@@ -57,6 +57,8 @@
     
 ### Front-end   
     
+    - [x] 2.1 - Envio de chamados: Get geral
     
-    
+    - [x] 2.2 - Envio de chamados: Get ID
+  
 ### Back-end    
