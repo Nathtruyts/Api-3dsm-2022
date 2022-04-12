@@ -55,10 +55,24 @@
 
 ## Entregas
     
-### Front-end   
+### Back-end   
     
-    - [x] 2.1 - Envio de chamados: Get geral
+- [x] 2.1 - Envio de chamados: Get geral
     
-    - [x] 2.2 - Envio de chamados: Get ID
-  
-### Back-end    
+- [x] 2.2 - Envio de chamados: Get ID
+    
+- [x] 2.3 - Envio de chamados: Post
+    
+- [x] 2.4 - Envio de chamados: Put
+
+- [x] 2.5 - Envio de chamados: Delete   
+
+- [x] 3.1 - Banco de dados: Modelagem  
+    
+- [x] 3.2 - Banco de dados: Conexão com backend
+    
+### front-end    
+    
+- [x] 2.6 - Envio de chamados:
+    
+- [x] 2.7 - Envio de chamados:    
