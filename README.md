@@ -1,15 +1,4 @@
-<br id="topo">
-<h1 align = "center"> FATEC Profº Jessen Vidal, SJC - 3º Semestre DSM </h1>
-<p align = "center">
-<img src = "https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width = "240px" height = "140px">
-<h1 text align="center"> Nome do Projeto </h1>
 
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Grupo2-DSM/Api-3dsm-2022?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/Grupo2-DSM/api-3dsm-2022?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Grupo2-DSM/api-3dsm-2022?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/github/issues-raw/Grupo2-DSM/api-3dsm-2022?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/Grupo2-DSM/api-3dsm-2022?style=for-the-badge)
 
  
  ## Sobre o projeto 
