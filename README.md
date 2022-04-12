@@ -1,7 +1,7 @@
 
 
  
- ## Sobre o projeto 
+ ## Sprint 1
 
 Criação de uma ferramenta inteligente em Aplicação Web com back-end com microserviços e front com single-page applications com Login completo, para atuar na identificação das causas de falhas que geram retrabalho. Tal aplicação tem como ferramenta base de dados em NoSQL de registros anteriores que causaram retrabalhos já conhecidos.
 
