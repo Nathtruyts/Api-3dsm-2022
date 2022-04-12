@@ -4,7 +4,6 @@
 <img src = "https://github.com/grupo-3dsm/repo_pi/blob/master/assets/img/fatec-logo.png" width = "240px" height = "140px">
 <h1 text align="center"> Nome do Projeto </h1>
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Grupo2-DSM/Api-3dsm-2022?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Grupo2-DSM/api-3dsm-2022?style=for-the-badge)
