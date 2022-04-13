@@ -70,14 +70,14 @@ Funcionalidade que busca e traz chamados e geral, sem uma especificação
        
 - [x] 2.2 - Envio de chamados: Get ID
     
-![]()
-![]()    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/ENTRADA_GET_POR_ID.PNG)
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/GET_POR_ID_SAIDA.PNG)    
 
 Funcionalidade que faz as buscas no banco de dados, trazendo o chamado escolhido buscado pelo id
     
 - [x] 2.3 - Envio de chamados: Post
     
-![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Backlog_Sprint1.png)
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/ENTRADA_POST.PNG)
 
 Funcionalidade que envia as informações de chamados inseridas pelo usuário, para o banco de dados da aplicação
     
@@ -90,8 +90,7 @@ Funcionalidade que insere e altera os dados de chamados no banco de dados
 
 - [x] 2.5 - Envio de chamados: Delete
     
-![](
-![](     
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/DELETE_ENTRADA.PNG)    
     
 Funcionalidade que possibilita o delete de um chamado, através de seu id.
     
@@ -99,21 +98,18 @@ Funcionalidade que possibilita o delete de um chamado, através de seu id.
     
 ![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Sprint1-CollectionChamados.png)
     
-Modelagem do banco de dados para chamados, contendo informações  
+Modelagem do banco de dados para chamados, contendo os campos principais do chamado, como data, hora e relato do problema ocorrido.
     
 - [x] 3.2 - Banco de dados: Conexão com backend
     
 ### Front-end    
     
-- [x] 2.6 - Envio de chamados:
+- [x] 2.6 - Envio de chamados:Front-end
     
 ![]( 
     
 Interface navegável por onde o usuário irá interagir com a aplicação para enviar os dados de chamados     
     
-- [x] 2.7 - Envio de chamados:    
-
-![]( 
-    
-   
+- [x] 2.7 - Conexão Frontend/backend   
+       
 → [Voltar ao topo](#topo)    
