@@ -2,10 +2,11 @@
 <br id="topo">
 <h1 align="center"> Sprint 1: 25/03/2022 a 14/04/2022 </h1>
 <p align="center"> 
-    <a href="#objetivos">Objetivos da Sprint</a> |
-    <a href="#wireframe">Wireframe</a> | 
+    <a href="#objetivos">Objetivos da Sprint</a> | 
     <a href="#prototipo">Protótipo</a> |
-    <a href="#entregas">Entregas</a>  
+    <a href="#backlog">backlog</a> |
+    <a href="#entregas">Entregas</a>
+    
 </p>
  
 <span id="objetivos">
@@ -39,17 +40,20 @@
 ## Backlog
 
 ![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Backlog_Sprint1.png)
-
-<span id="wireframe">
-
-## Wireframe
-
-![]()
-![]()
     
 <span id="prototipo">
     
 ## Protótipo
+
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tela_Cadastro.png)    
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tela_Login.png)    
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tela_Inicio.png)    
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tela_Chamado.png)
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tela_Atualizar.png)    
     
 <span id="entregas">
 
@@ -58,21 +62,58 @@
 ### Back-end   
     
 - [x] 2.1 - Envio de chamados: Get geral
+
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/REQUISICAO_GET_CHAMADOS.png)    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/REQUISICAO_GET_CHAMADOS_RESPOSTA.png) 
     
+Funcionalidade que busca e traz chamados e geral, sem uma especificação
+       
 - [x] 2.2 - Envio de chamados: Get ID
+    
+![]()
+![]()    
+
+Funcionalidade que faz as buscas no banco de dados, trazendo o chamado escolhido buscado pelo id
     
 - [x] 2.3 - Envio de chamados: Post
     
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Backlog_Sprint1.png)
+
+Funcionalidade que envia as informações de chamados inseridas pelo usuário, para o banco de dados da aplicação
+    
 - [x] 2.4 - Envio de chamados: Put
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/POST_PEDIDO.png)
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/REQUISICAO_GET_CHAMADOS_RESPOSTA.png)
+    
+Funcionalidade que insere e altera os dados de chamados no banco de dados
 
-- [x] 2.5 - Envio de chamados: Delete   
-
+- [x] 2.5 - Envio de chamados: Delete
+    
+![](
+![](     
+    
+Funcionalidade que possibilita o delete de um chamado, através de seu id.
+    
 - [x] 3.1 - Banco de dados: Modelagem  
+    
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Sprint1-CollectionChamados.png)
+    
+Modelagem do banco de dados para chamados, contendo informações  
     
 - [x] 3.2 - Banco de dados: Conexão com backend
     
-### front-end    
+### Front-end    
     
 - [x] 2.6 - Envio de chamados:
     
+![]( 
+    
+Interface navegável por onde o usuário irá interagir com a aplicação para enviar os dados de chamados     
+    
 - [x] 2.7 - Envio de chamados:    
+
+![]( 
+    
+   
+→ [Voltar ao topo](#topo)    
