@@ -106,10 +106,14 @@ Modelagem do banco de dados para chamados, contendo os campos principais do cham
     
 - [x] 2.6 - Envio de chamados:Front-end
     
-![]( 
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Home.png)
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/NewTicket.png)
+![](https://github.com/Grupo2-DSM/Api-3dsm-2022/blob/main/img/Tickets.png)    
     
 Interface navegável por onde o usuário irá interagir com a aplicação para enviar os dados de chamados     
     
-- [x] 2.7 - Conexão Frontend/backend   
-       
+- [x] 2.7 - Conexão Frontend/backend 
+    
+O frontend integrado a todo o backend, trocando dados entre si. 
+    
 → [Voltar ao topo](#topo)    
